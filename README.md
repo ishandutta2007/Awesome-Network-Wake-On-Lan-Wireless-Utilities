@@ -10,7 +10,7 @@
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
 <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Network-Wake-On-Lan-Wireless-Utilities/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Network-Wake-On-Lan-Wireless-Utilities?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Network-Wake-On-Lan-Wireless-Utilities/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Network-Wake-On-Lan-Wireless-Utilities?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Network-Wake-On-Lan-Wireless-Utilities/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Network-Wake-On-Lan-Wireless-Utilities?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Network-Wake-On-Lan-Wireless-Utilities/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Network-Wake-On-Lan-Wireless-Utilities?style=flat-square&color=red" alt="Open Issues" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Network-Wake-On-Lan-Wireless-Utilities/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -70,9 +70,9 @@ The enterprise and commercial segment displays **moderate consolidation** domina
 
 ## 🔓 Top Open-Source Projects & Utilities
 
-*Ranked strictly by GitHub Star Count (Descending). Star badges link directly to the repository stargazers page.*
+*Ranked strictly by GitHub Stars_Count (Descending). Stars_Badges link directly to the repository stargazers page.*
 
-| Project | Stars | Focus & Power Management Capabilities |
+| Project | GitHub_Stars | Focus & Power Management Capabilities |
 | :--- | :---: | :--- |
 | **[RustDesk](https://github.com/rustdesk/rustdesk)** | <a href="https://github.com/rustdesk/rustdesk/stargazers"><img src="https://img.shields.io/github/stars/rustdesk/rustdesk?style=social&color=white" alt="RustDesk Stars" /></a> | Premier open-source remote desktop client and server software written in Rust. Self-hosted alternative to TeamViewer with end-to-end encryption, multi-platform relay servers, and integrated Wake-on-LAN node triggering. |
 | **[Home Assistant Core](https://github.com/home-assistant/core)** | <a href="https://github.com/home-assistant/core/stargazers"><img src="https://img.shields.io/github/stars/home-assistant/core?style=social&color=white" alt="Home Assistant Stars" /></a> | The world's leading open-source home automation system. Features native `wake_on_lan` switch integration, ESPHome BLE Bluetooth proximity proxies, and smart-plug power-cycle failovers for headless server management. |
